@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.swift_version = "5.0"
 
-  s.ios.deployment_target = "8.0"
+  s.ios.deployment_target = "13.0"
 
   s.source_files = "Sources/Share/**/*.swift"
   s.module_name = "FacebookShare"
